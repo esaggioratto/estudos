@@ -1,0 +1,1 @@
+C:\EstudosGit\Mobile\VaiBrasil\Source\VaiBrasil\VaiBrasil.UWP\VaiBrasil.UWP.csproj;x64

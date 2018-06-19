@@ -1,0 +1,12 @@
+/ref:"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\enielson.saggioratto\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\enielson.saggioratto\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\x86\ilc\lib\Private\\"
+/ref:"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\in"
+/ref:"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\enielson.saggioratto\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\csc"
+/out:"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\VaiBrasil.UWP.Sg"
+"@C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\VaiBrasil.UWP.Sg\ComputedSerializationInput.txt"

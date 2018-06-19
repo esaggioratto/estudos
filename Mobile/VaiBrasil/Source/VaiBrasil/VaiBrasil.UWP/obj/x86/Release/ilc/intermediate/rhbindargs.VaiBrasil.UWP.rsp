@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\enielson.saggioratto\.nuget\packages\microsoft.net.native.compiler\2.0.0\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\MDIL\VaiBrasil.UWP.mdilexe"
+"/i:C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\Native\VaiBrasil.UWP.exe"
+"/pdbAltPath:C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\bin\x86\Release\ilc"
+"/res:C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\enielson.saggioratto\.nuget\packages\microsoft.net.native.sharedlibrary-x86\2.0.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

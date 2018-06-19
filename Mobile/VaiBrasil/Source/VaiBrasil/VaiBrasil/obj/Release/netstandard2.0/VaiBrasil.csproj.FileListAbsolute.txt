@@ -1,0 +1,8 @@
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\bin\Release\netstandard2.0\VaiBrasil.deps.json
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\bin\Release\netstandard2.0\VaiBrasil.dll
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\bin\Release\netstandard2.0\VaiBrasil.pdb
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\obj\Release\netstandard2.0\VaiBrasil.csproj.CoreCompileInputs.cache
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\obj\Release\netstandard2.0\VaiBrasil.AssemblyInfoInputs.cache
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\obj\Release\netstandard2.0\VaiBrasil.AssemblyInfo.cs
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\obj\Release\netstandard2.0\VaiBrasil.dll
+C:\Estudos\Mobile\VaiBrasil\VaiBrasil\VaiBrasil\obj\Release\netstandard2.0\VaiBrasil.pdb
